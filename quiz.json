@@ -13,6 +13,78 @@
 				],
 			"Question 2":
 				[
+					{ "question": "What colour is a lemon?"},
+					{ "correct answer": "Yellow" },
+					{ "potential answer": [
+                        "Red", "Orange", "Blue", "Green", "Indigo", "Violet"
+                        ]
+                    }
+				],
+			"Question 3":
+				[
+					{ "question": "What colour is a firetruck?"},
+					{ "correct answer": "Red" },
+					{ "potential answer": [
+                        "Yellow", "Orange", "Blue", "Green", "Indigo", "Violet"
+                        ]
+                    }
+				],
+			"Question 4":
+				[
+					{ "question": "What colour is grass?"},
+					{ "correct answer": "Green" },
+					{ "potential answer": [
+                        "Red", "Orange", "Blue", "Yellow", "Indigo", "Violet"
+                        ]
+                    }
+				],
+			"Question 5":
+				[
+					{ "question": "What colour is a pumpkin?"},
+					{ "correct answer": "Orange" },
+					{ "potential answer": [
+                        "Red", "Yellow", "Blue", "Green", "Indigo", "Violet"
+                        ]
+                    }
+				],
+			"Question 6":
+				[
+					{ "question": "What colour is an eggplant?"},
+					{ "correct answer": "Violet" },
+					{ "potential answer": [
+                        "Red", "Orange", "Blue", "Green", "Indigo", "Yellow"
+                        ]
+                    }
+				],
+			"Question 7":
+				[
+					{ "question": "What colour are indigos??"},
+					{ "correct answer": "Indigo" },
+					{ "potential answer": [
+                        "Red", "Orange", "Blue", "Green", "Yellow", "Violet"
+                        ]
+                    }
+				],
+			"Question 8":
+				[
+					{ "question": "What colour is a lemon??"},
+					{ "correct answer": "Yellow" },
+					{ "potential answer": [
+                        "Red", "Orange", "Blue", "Green", "Indigo", "Violet"
+                        ]
+                    }
+				],
+			"Question 9":
+				[
+					{ "question": "What colour is a lemon??"},
+					{ "correct answer": "Yellow" },
+					{ "potential answer": [
+                        "Red", "Orange", "Blue", "Green", "Indigo", "Violet"
+                        ]
+                    }
+				],
+			"Question 10":
+				[
 					{ "question": "What colour is a lemon??"},
 					{ "correct answer": "Yellow" },
 					{ "potential answer": [
