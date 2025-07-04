@@ -1,23 +1,31 @@
 {
-    "title": "What Colour is That?",
-	"questions":
-	[
-			{ 
-				"question": "What colour is the ocean?",
-				"correct answer": "Blue" ,
-				"potential answer": 
-				[
-					"Red", "Orange", "Yellow", "Green", "Indigo", "Violet"
-				]
-			},
-			{ 
-				"question": "What colour is a lemon??",
-				"correct answer": "Yellow",
-				"potential answer": 
-				[
-					"Red", "Orange", "Blue", "Green", "Indigo", "Violet"
-				]
-			}
+	"title": "What Colour is That?",
+	"questions": [
+		{
+			"question": "What colour is the ocean?",
+			"choices": [
+				"Red",
+				"Orange",
+				"Yellow",
+				"Green",
+				"Indigo",
+				"Violet",
+				"Blue"
+			],
+			"correct answer": "Blue"
+		},
+		{
+			"question": "What colour is a lemon??",			
+			"choices": [
+				"Red",
+				"Orange",
+				"Blue",
+				"Green",
+				"Indigo",
+				"Violet",
+				"Yellow"
+			],
+			"correctAnswer": "Yellow"
+		}
 	]
-        
 }
